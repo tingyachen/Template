@@ -59,9 +59,13 @@
     margin-top: 100px;
   }
 
+  .game-list {
+    padding: 0 30px;
+  }
+
   .game-list .game-item {
     min-width: 100%;
-    margin: 0 0 50px 400px;
+    margin: 0 0 5% 40%;
   }
 
   .video-wrap .video-play {
@@ -74,6 +78,10 @@
 
   #gallery-area .gallery-img-item {
     min-width: 100%;
+  }
+
+  .gallery-img-item a {
+    padding: 0 10%;
   }
 
   .game-item .game-cover-pic {
@@ -109,7 +117,7 @@
 
   #container .copyright-text {
     min-width: 100%;
-    padding: 0 24%;
+    padding: 0 18%;
   }
 
   .info-wrap {
